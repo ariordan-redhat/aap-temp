@@ -1,4 +1,4 @@
 # aap-temp
 temporary repo
 
-* https://ariordan-redhat.github.io/aap-builds/temp-installation-guide.html
+* https://ariordan-redhat.github.io/aap-temp/temp-installation-guide.html
